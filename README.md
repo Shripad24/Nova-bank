@@ -58,7 +58,7 @@ Open the app in your browser at `http://localhost:5173`.
 Create a `.env.local` file and add the following values:
 
 ```env
-VITE_Chatbot_API_KEY=your_gemini_api_key_here
+VITE_Chatbot_API_KEY=your_api_key_here
 VITE_OTP_API_URL=https://your-otp-backend-url
 ```
 
